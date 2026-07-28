@@ -8,4 +8,5 @@ dependencies = [
     "agno>=2.8.3",
     "groq>=1.6.0",
     "python-dotenv>=1.2.2",
+    "tavily-python>=0.7.26",
 ]
